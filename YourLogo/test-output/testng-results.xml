@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15101" started-at="2021-02-21T08:12:59Z" finished-at="2021-02-21T08:13:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15101" started-at="2021-02-21T08:12:59Z" finished-at="2021-02-21T08:13:14Z">
+      <class name="com.testcase.TC1_signinvalidation">
+        <test-method status="PASS" signature="initialSetup()[pri:0, instance:com.testcase.TC1_signinvalidation@256216b3]" name="initialSetup" is-config="true" duration-ms="11040" started-at="2021-02-21T13:42:59Z" finished-at="2021-02-21T13:43:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetup -->
+        <test-method status="PASS" signature="signinvalidation()[pri:0, instance:com.testcase.TC1_signinvalidation@256216b3]" name="signinvalidation" duration-ms="3006" started-at="2021-02-21T13:43:10Z" finished-at="2021-02-21T13:43:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signinvalidation -->
+        <test-method status="PASS" signature="testend()[pri:0, instance:com.testcase.TC1_signinvalidation@256216b3]" name="testend" is-config="true" duration-ms="996" started-at="2021-02-21T13:43:13Z" finished-at="2021-02-21T13:43:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testend -->
+      </class> <!-- com.testcase.TC1_signinvalidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
